@@ -1,0 +1,22 @@
+[
+    {
+        "zone_id": 1,
+        "zone_name": "Zone_1"
+    },
+    {
+        "zone_id": 2,
+        "zone_name": "Zone_2"
+    },
+    {
+        "zone_id": 3,
+        "zone_name": "Zone_3"
+    },
+    {
+        "zone_id": 4,
+        "zone_name": "Zone_4"
+    },
+    {
+        "zone_id": 5,
+        "zone_name": "Zone_5"
+    }
+]

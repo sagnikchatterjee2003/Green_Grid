@@ -1,0 +1,26 @@
+<data>
+    <log>
+        <meter_id>101</meter_id>
+        <date>2025-06-17</date>
+        <time>06:00:00</time>
+        <units>1.4</units>
+    </log>
+    <log>
+        <meter_id>102</meter_id>
+        <date>2025-06-17</date>
+        <time>08:15:00</time>
+        <units>2.8</units>
+    </log>
+    <log>
+        <meter_id>103</meter_id>
+        <date>2025-06-17</date>
+        <time>14:45:00</time>
+        <units>3.2</units>
+    </log>
+    <log>
+        <meter_id>104</meter_id>
+        <date>2025-06-17</date>
+        <time>18:30:00</time>
+        <units>0.9</units>
+    </log>
+</data>

@@ -4,7 +4,7 @@ The Files are uploaded by:
 2.  Sachin S -> python implementation/creation_insertion.ipynb
 3.  Rashmitha Dandlamudi -> python implementation/output.ipynb
 4.  Saket Chourasiya -> sql queries/green-grid_schema_design.sql
-5.  Kalyan -> xml parsing reference/xml_parsing_ipynb & xml parsing reference/smart_meter_logs.xml
+5.  Radam Pavan Kalyan -> xml parsing reference/xml_parsing_ipynb & xml parsing reference/smart_meter_logs.xml
 6.  
 
 

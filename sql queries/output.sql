@@ -1,4 +1,5 @@
 -- Query 1: Peak hour usage per meter
+
 WITH ranked_usage AS (
   SELECT 
     meter_id,
@@ -19,6 +20,7 @@ FROM
 WHERE 
   rn = 1;
 
+
 -- Query 2: Zone-wise total energy consumed
 SELECT 
     z.zone_id,
@@ -36,6 +38,7 @@ GROUP BY
     z.zone_id, z.zone_name
 ORDER BY 
     z.zone_id ;
+
 
 -- Query 3: Billing summaries per customer
 SELECT 

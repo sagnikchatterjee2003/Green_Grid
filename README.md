@@ -1,11 +1,7 @@
 # Green_Grid
-The Files are uploaded by:
-1.  Sagnik Chatterjee -> python implementation/app_output.ipynb
-2.  Sachin S -> python implementation/creation_insertion.ipynb
-3.  Rashmitha Dandlamudi -> python implementation/output.ipynb
-4.  Saket Chourasiya -> sql queries/green-grid_schema_design.sql
-5.  Radam Pavan Kalyan -> xml parsing reference/xml_parsing_ipynb & xml parsing reference/smart_meter_logs.xml
-6.  
+Task Break-Down:
+![image](https://github.com/user-attachments/assets/65ff85fa-5178-4934-b388-abfcd8aa8cc8)
+
 
 
 
